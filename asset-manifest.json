@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/happy-birthday-gulli/static/css/main.688bbb44.chunk.css",
+    "main.js": "/happy-birthday-gulli/static/js/main.a4f31b05.chunk.js",
+    "main.js.map": "/happy-birthday-gulli/static/js/main.a4f31b05.chunk.js.map",
+    "runtime-main.js": "/happy-birthday-gulli/static/js/runtime-main.229eb9ac.js",
+    "runtime-main.js.map": "/happy-birthday-gulli/static/js/runtime-main.229eb9ac.js.map",
+    "static/js/2.e290dcfc.chunk.js": "/happy-birthday-gulli/static/js/2.e290dcfc.chunk.js",
+    "static/js/2.e290dcfc.chunk.js.map": "/happy-birthday-gulli/static/js/2.e290dcfc.chunk.js.map",
+    "static/js/3.bf0f099d.chunk.js": "/happy-birthday-gulli/static/js/3.bf0f099d.chunk.js",
+    "static/js/3.bf0f099d.chunk.js.map": "/happy-birthday-gulli/static/js/3.bf0f099d.chunk.js.map",
+    "index.html": "/happy-birthday-gulli/index.html",
+    "static/css/main.688bbb44.chunk.css.map": "/happy-birthday-gulli/static/css/main.688bbb44.chunk.css.map",
+    "static/js/2.e290dcfc.chunk.js.LICENSE.txt": "/happy-birthday-gulli/static/js/2.e290dcfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.229eb9ac.js",
+    "static/js/2.e290dcfc.chunk.js",
+    "static/css/main.688bbb44.chunk.css",
+    "static/js/main.a4f31b05.chunk.js"
+  ]
+}
